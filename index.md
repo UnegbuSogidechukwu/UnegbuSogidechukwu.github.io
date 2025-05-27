@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Sogidechukwu Unegbu
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Continuous growth, and curiosity"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Junior, Computer Science @ Community College of Baltimore County"
+  - "🔬 Research: Monitoring Urban Air Pollution from Satellite Data using Machine Learning"
+  - "📍 Based in Baltimore, MD"
+  - "🚀 Passionate about AI and ways it can be implemented"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin:[https://www.linkedin.com/in/sogidechukwu-unegbu-96a929270/]
 image: /assets/images/me.jpg
 ---
