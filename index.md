@@ -10,7 +10,7 @@ quick_facts:
   - "🔬 Research: Monitoring Urban Air Pollution from Satellite Data using Machine Learning"
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about AI and ways it can be implemented"
-:
+
 linkedin:[https://www.linkedin.com/in/sogidechukwu-unegbu-96a929270/]
 image: /assets/images/me.jpg
 ---
