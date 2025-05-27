@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about AI and ways it can be implemented"
 
 linkedin: https://www.linkedin.com/in/sogidechukwu-unegbu-96a929270/
-image: /assets/images/me.jpg
+assets/images/profile_me.jpg
 ---
