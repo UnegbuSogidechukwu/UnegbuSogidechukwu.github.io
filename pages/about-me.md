@@ -21,7 +21,7 @@ about:
     - icon: 📖
       title: Reading 
       description: I enjoy Reading, reading improves my imagination and helps me stay open to various viewpoints.
-    - icon: ![ResearchLabGIF](https://github.com/user-attachments/assets/a3a3845e-5d5c-4a28-8bb8-90c4406211bb)
+    - icon: ResearchLabGIF](https://github.com/user-attachments/assets/a3a3845e-5d5c-4a28-8bb8-90c4406211bb
       title: Research
       description: I love learning about new things, and more importantly enjoy hands on lerning.
 
