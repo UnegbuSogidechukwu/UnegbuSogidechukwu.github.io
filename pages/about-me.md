@@ -4,27 +4,26 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Sogidechukwu Unegbu
+  role: Student, Computer Science Major @ Community College of Baltimore County
+  image: /assets/images/profile_me.jpg
+  linkedin: https://www.linkedin.com/in/taquavian-johnson/](https://www.linkedin.com/in/sogidechukwu-unegbu-96a929270/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently studying Computer Science at Community College of Baltimore County in Baltimore, Maryland.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    
+    When I’m not working on research, and self improevement. I enjoy reading, playing games, and learning new things
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🎮
+      title: Playing Games
+      description: I’ve been playing for a long time and enjoy the adrenaline rush that follow certain game genres.
+    - icon: 📖
+      title: Reading 
+      description: I enjoy Reading, reading improves my imagination and helps me stay open to various viewpoints.
+    - icon: ![ResearchLabGIF](https://github.com/user-attachments/assets/a3a3845e-5d5c-4a28-8bb8-90c4406211bb)
+      title: Research
+      description: I love learning about new things, and more importantly enjoy hands on lerning.
 
   gallery:
     - image: /assets/images/me-guitar.png
