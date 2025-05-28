@@ -29,6 +29,8 @@ about:
     - image: /assets/images/me-guitar.png
       caption: Playing guitar at the park!
     - image: /assets/images/me-basketball.png
+
+---
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
