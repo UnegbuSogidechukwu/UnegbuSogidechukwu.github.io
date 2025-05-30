@@ -3,34 +3,33 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Air Pollution & Machine Learning
+project_title: "Monitoring Urban Air Pollution from Satellite Data using Machine Learning."
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  Many communities in the Baltimore area are disproportionately affected by poor air quality, leading to higher rates of respiratory and cardiovascular illnesses. Despite growing awareness, there is a lack of localized, real-time monitoring and community-driven solutions to address air pollution.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+This project aims to investigate the sources and patterns of air pollution in Baltimore and explore how data-driven interventions can support healthier environments and more informed policy decisions.
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows the following steps
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  - Literature review and Collection of data into one central google drive and basic quality control by plotting and visual inspections.
+  - Format data and use them for supervised machine learning such as random forest
+  - Apply a deep learning algorithm to the same data sequences
+  - Algorithm validation and comparison with unsupervised learning results.
+    
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  The outcomes of this program will equip participants with machine learning techniques for satellite data retrieval related to air quality in the Baltimore–Washington area. Participants will gain practical knowledge of data collection methods and formats, how to match data records, and how to apply basic machine learning tools such as random forest. Depending on research progress, they may also have the opportunity to explore deep learning algorithms.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Temidayo (Michael) FAPOHUNDA
+  linkedin: https://www.linkedin.com/in/temidayo-fapohunda-7ba686233/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr Xiaowen Li
+  linkedin: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
 ---
