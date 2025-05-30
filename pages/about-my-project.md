@@ -9,7 +9,7 @@ project_title: "Monitoring Urban Air Pollution from Satellite Data using Machine
 problem: |
   Many communities in the Baltimore area are disproportionately affected by poor air quality, leading to higher rates of respiratory and cardiovascular illnesses. Despite growing awareness, there is a lack of localized, real-time monitoring and community-driven solutions to address air pollution.
 
-This project aims to investigate the sources and patterns of air pollution in Baltimore and explore how data-driven interventions can support healthier environments and more informed policy decisions.
+  This project aims to investigate the sources and patterns of air pollution in Baltimore and explore how data-driven interventions can support healthier environments and more informed policy decisions.
 
 approach: |
   The project follows the following steps
