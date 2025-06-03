@@ -9,7 +9,7 @@ about:
   image: /assets/images/profile_me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/](https://www.linkedin.com/in/sogidechukwu-unegbu-96a929270/
   bio: |
-    I’m currently studying Computer Science at Community College of Baltimore County in Baltimore, Maryland.
+    I’m currently studying Computer Science at Community College of Baltimore County in Baltimore, Maryland. I am interested in becoming a machine learning specialist in the future.
 
     
     When I’m not working on research, and self improevement. I enjoy reading, playing games, and learning new things
