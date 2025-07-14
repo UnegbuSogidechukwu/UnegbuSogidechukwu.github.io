@@ -12,7 +12,7 @@ about:
     I’m currently studying Computer Science at Community College of Baltimore County in Baltimore, Maryland. I am interested in becoming a machine learning specialist in the future.
 
     
-    When I’m not working on research, and self improevement. I enjoy reading, playing games, and learning new things
+    When I’m not working on research, and self improvement. I enjoy reading, playing games, and learning new things
 
   hobbies:
     - icon: 🎮
