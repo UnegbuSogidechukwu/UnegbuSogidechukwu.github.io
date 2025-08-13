@@ -23,7 +23,7 @@ approach: |
 outcome: |
   The outcomes of this program will equip participants with machine learning techniques for satellite data retrieval related to air quality in the Baltimore–Washington area. Participants will gain practical knowledge of data collection methods and formats, how to match data records, and how to apply basic machine learning tools such as random forest. Depending on research progress, they may also have the opportunity to explore deep learning algorithms.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: Project_9___Monitoring_Urban_Air_Pollution_from_Satellite_Data_using_Machine_Learning.pdf
 
 grad_mentor:
   name: Temidayo (Michael) FAPOHUNDA
