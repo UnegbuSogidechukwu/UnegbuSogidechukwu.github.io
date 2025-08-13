@@ -23,8 +23,7 @@ approach: |
 outcome: |
   The outcomes of this program will equip participants with machine learning techniques for satellite data retrieval related to air quality in the Baltimore–Washington area. Participants will gain practical knowledge of data collection methods and formats, how to match data records, and how to apply basic machine learning tools such as random forest. Depending on research progress, they may also have the opportunity to explore deep learning algorithms.
 
-final_report_url: 
-[View Final Report](https://github.com/UnegbuSogidechukwu/UnegbuSogidechukwu.github.io/raw/master/Project_9___Monitoring_Urban_Air_Pollution_from_Satellite_Data_using_Machine_Learning.pdf){:target="_blank"}
+final_report_url: https://github.com/UnegbuSogidechukwu/UnegbuSogidechukwu.github.io/raw/master/Project_9___Monitoring_Urban_Air_Pollution_from_Satellite_Data_using_Machine_Learning.pdf
 
 
 grad_mentor:
